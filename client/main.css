@@ -1,52 +1,49 @@
 /* CSS declarations go here */
 
 body {
-  background-color: #192D3A;
-  background: #192D3A !important;
-  font-family: 'Roboto' !important ;
+  background-color: #192d3a;
+  background: #192d3a !important;
+  font-family: "Roboto" !important;
   height: 100%;
-
 }
+
 .x {
-  font-family: 'Roboto', sans-serif !important;
+  font-family: "Roboto", sans-serif !important;
 }
 
 #app {
-  background-color: #192D3A;
-	 background: #192D3A;
-	 text-align: center;
-	 font-family: 'Roboto', sans-serif;
-
+  background-color: #192d3a;
+  background: #192d3a;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
 }
 
 #projectBtn {
-	margin-bottom: 60px;
+  margin-bottom: 60px;
   margin-top: 30px;
 }
 
 #edit-input {
-	margin-top: 10px;
+  margin-top: 10px;
 }
 
 #expBtn {
-	margin-top: 30px;
+  margin-top: 30px;
 }
 
-
 #expBorder {
-      border:2px solid red;
-      margin-bottom: 5px;
-      border-radius: 5px;
-      padding: 5px;
-    }
-
-#incBorder {
-   border: 2px solid #54c8ff;
+  border: 2px solid red;
   margin-bottom: 5px;
   border-radius: 5px;
   padding: 5px;
-    }
+}
 
+#incBorder {
+  border: 2px solid #54c8ff;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  padding: 5px;
+}
 
 #expText {
   width: 80%;
@@ -59,22 +56,22 @@ body {
 }
 
 #expText > div {
-    display: inline-block;
-    display: -moz-inline-box;
-    zoom: 1; /* Trigger hasLayout */
-    margin-left: 2%;
-    width: 22%;
-    text-align: center;
+  display: inline-block;
+  display: -moz-inline-box;
+  zoom: 1; /* Trigger hasLayout */
+  margin-left: 2%;
+  width: 22%;
+  text-align: center;
 }
 
 #incText > div {
-    display: inline-block;
-    display: -moz-inline-box;
-    zoom: 1; /* Trigger hasLayout */
-    margin-left: 2%;
-    width: 22%;
-    text-align: center;
-    color: #54c8ff;
+  display: inline-block;
+  display: -moz-inline-box;
+  zoom: 1; /* Trigger hasLayout */
+  margin-left: 2%;
+  width: 22%;
+  text-align: center;
+  color: #54c8ff;
 }
 
 #backBtn {
@@ -89,20 +86,20 @@ body {
 }
 
 #border {
-      border:2px solid #54c8ff;
-      border-radius: 50px;
-      margin-bottom: 25px;
-      margin-left: 15px;
-      margin-right: 15px;
-      padding: 20px;
-    }
+  border: 2px solid #54c8ff;
+  border-radius: 50px;
+  margin-bottom: 25px;
+  margin-left: 15px;
+  margin-right: 15px;
+  padding: 20px;
+}
 
 #expBorder {
-      border:2px solid red;
-      margin-bottom: 5px;
-      border-radius: 5px;
-      padding: 5px;
-    }
+  border: 2px solid red;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  padding: 5px;
+}
 
 #addBtn {
   margin-bottom: 60px;
@@ -143,4 +140,3 @@ body {
   margin-left: 20px;
   margin-right: 20px;
 }
-
